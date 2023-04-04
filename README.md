@@ -1,4 +1,4 @@
-# Proyecto 3- Herencia Sistema de Almacen y Verduleria 
+# Proyecto 3 - POO Herencia | Sistema de Almacen y Verduleria 
 
 Para la tarea se pide desarrollar un diseño orientado a objetos para un almacén y
 verdulería, como requerimiento vamos a tener 4 clases de productos Fruta, Limpieza,
